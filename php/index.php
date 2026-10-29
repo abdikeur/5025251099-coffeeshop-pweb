@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coffee</title>
+    <title>Sunsoo Coffee</title>
 
     <!-- SWIPER -->
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -24,13 +24,14 @@
     <header class="header">
         <div id="menu-btn" class="fas fa-bars"></div>
 
-        <a href="#" class="logo">coffee <i class="fas fa-mug-hot"></i></a>
+        <a href="#" class="logo">sunsoo coffee <i class="fas fa-mug-hot"></i></a>
 
         <nav class="navbar">
             <a href="#home">home</a>
             <a href="#about">about</a>
             <a href="#menu">menu</a>
             <a href="#review">review</a>
+            <a href="#register/login">register/login</a>
         </nav>
 
     </header>
@@ -245,6 +246,7 @@
                 <a href="#about"><i class="fas fa-arrow-right"></i> about</a>
                 <a href="#menu"><i class="fas fa-arrow-right"></i> menu</a>
                 <a href="#review"><i class="fas fa-arrow-right"></i> review</a>
+                <a href="#register/login"><i class="fas fa-arrow-right"></i> register/login</a>
             </div>
 
             <div class="box">
